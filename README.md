@@ -3,7 +3,7 @@ Data Analysis of a coffee shop using polars
 # ☕ Bean There Coffee Shop Analysis with Polars
 
 Welcome to the **Bean There Coffee Shop** data analysis project!  
-This beginner-friendly project introduces **[Polars](https://pola-rs.github.io/polars/)**, a blazing-fast DataFrame library built in Rust, designed for speed, memory efficiency, and ease of use.  
+This project uses **[Polars](https://pola-rs.github.io/polars/)**, a blazing-fast DataFrame library built in Rust, designed for speed, memory efficiency, and ease of use.  
 
 We’ll simulate realistic coffee shop sales data and analyze it to uncover business insights — from best-selling drinks to customer behavior patterns.  
 
@@ -11,13 +11,13 @@ We’ll simulate realistic coffee shop sales data and analyze it to uncover busi
 
 ## Features
 
-- Generate **fictional coffee shop data** (2,000 transactions).
-- Explore **data schemas, sizes, and previews**.
-- Add calculated columns like **total sales, day of week, month, and hour**.
-- Perform **grouped analysis** (best sellers, daily revenue patterns).
-- Identify **high-value transactions**.
-- Understand **customer behavior and satisfaction trends**.
-- Create a **business summary dashboard**.
+- Generates **fictional coffee shop data** (2,000 transactions).
+- Explores **data schemas, sizes, and previews**.
+- Adds calculated columns like **total sales, day of week, month, and hour**.
+- Performs **grouped analysis** (best sellers, daily revenue patterns).
+- Identifies **high-value transactions**.
+- Understands **customer behavior and satisfaction trends**.
+- Creates a **business summary dashboard**.
 
 ---
 
@@ -32,7 +32,7 @@ pip install polars numpy
 1. Clone this repository:
 ```bash
 git clone <your-repo-link>
-cd coffee-shop-polars
+cd coffee-with-polars
 ```
 2. Open the project in your editor or Jupyter Notebook.
 3. Import the libraries:
