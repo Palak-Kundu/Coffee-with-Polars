@@ -29,8 +29,13 @@ First, install the required packages:
 pip install polars numpy
 ```
 ## Usage
-
-Import the libraries:
+1. Clone this repository:
+```bash
+git clone <your-repo-link>
+cd coffee-shop-polars
+```
+2. Open the project in your editor or Jupyter Notebook.
+3. Import the libraries:
 
 ```bash
 import polars as pl
@@ -80,4 +85,4 @@ from datetime import datetime, timedelta
 
 - [Polars Documentation](https://pola-rs.github.io/polars/)
 - [Numpy Documentation](https://numpy.org/doc/)
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  <!-- optional -->
+
