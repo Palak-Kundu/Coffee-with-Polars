@@ -27,7 +27,7 @@ First, install the required packages:
 
 ```bash
 pip install polars numpy
-
+```
 ## Usage
 
 Import the libraries:
@@ -36,7 +36,7 @@ Import the libraries:
 import polars as pl
 import numpy as np
 from datetime import datetime, timedelta
-
+```
 ---
 ## 📊 Workflow Overview
 
